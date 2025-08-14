@@ -1,0 +1,11 @@
+/* Fira Code font class */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+.font-fira {
+	font-family: 'Fira Code', monospace;
+	
+}
+.font-ubuntu {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 200;
+}
